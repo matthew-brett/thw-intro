@@ -6,6 +6,8 @@ reveal: thw_uob.html
 	pandoc -t beamer -s $< -o $@
 
 %.html : %.md
+	# May need git submodule add https://github.com/hakimel/reveal.js to make
+	# this one work.
 	pandoc -t revealjs -s -o $@ $< -V revealjs-url=./reveal.js
 
 clean:
