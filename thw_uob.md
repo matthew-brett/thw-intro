@@ -9,6 +9,12 @@
 * the hacker within
 * topics
 
+# In the hacker spirit
+
+This presentation built with
+[Markdown](https://en.wikipedia.org/wiki/Markdown) and
+[Pandoc](http://pandoc.org), and available at:
+
 # Hacker Culture
 
 * https://en.wikipedia.org/wiki/Hacker_culture
@@ -24,19 +30,31 @@ Age](https://en.wikipedia.org/wiki/Hackers:_Wizards_of_the_Electronic_Age)
 
 # Hacker Heroes
 
-\centerline{\includegraphics[height=2.5in]{images/Richard_Matthew_Stallman.jpeg}}
+\centerline{\includegraphics[height=2in]{images/Richard_Matthew_Stallman.jpeg}}
 
 [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman)
+
+* Give me back my printer
+* [Lisp Machines Inc](https://en.wikipedia.org/wiki/Lisp_Machines) vs
+  [Symbolics](https://en.wikipedia.org/wiki/Symbolics).
+* Gnu Public License and copyleft
 
 # Hacker Heroes
 
 \centerline{\includegraphics[height=2.5in]{images/Linus_Torvalds_talking.jpeg}}
 
-> I decided just, how hard can it be?
-
 [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
 
-# Meanwhile, in academia
+> I decided just, how hard can it be?
+
+# Sceptical
+
+\centerline{\includegraphics[height=2.5in]{images/nullius_in_verba.jpg}}
+
+(by kladcat under [CC BY 2.0](http://creativecommons.org/licenses/by/2.0), via
+Wikimedia Commons)
+
+# So, how is this relevant to academia?
 
 \centerline{\includegraphics[width=4in]{images/ioannidis_title.png}}
 
@@ -77,13 +95,6 @@ research" Nature 483 pp. 531–533
 * Careful,
 * Honest And
 * Transparent.
-
-# Sceptical
-
-\centerline{\includegraphics[height=2.5in]{images/nullius_in_verba.jpg}}
-
-(by kladcat under [CC BY 2.0](http://creativecommons.org/licenses/by/2.0), via
-Wikimedia Commons)
 
 # Sceptical
 
