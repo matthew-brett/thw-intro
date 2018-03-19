@@ -93,15 +93,6 @@ Age](https://en.wikipedia.org/wiki/Hackers:_Wizards_of_the_Electronic_Age)
 
 Richard Feynman, What is Science? (1969)
 
-# Especially of yourself
-
-> The first principle is that you must not fool yourself—and you are the
-> easiest person to fool. So you have to be very careful about that. After
-> you've not fooled yourself, it's easy not to fool other scientists. You just
-> have to be honest in a conventional way after that.
-
-Richard Feynman, Cargo Cult Science (1974)
-
 # Error is everywhere
 
 > The scientific method's central motivation is the ubiquity of error - the
@@ -164,6 +155,8 @@ Richard Feynman, Cargo Cult Science (1974)
 > actual scholarship is the complete software development environment and the
 > complete set of instructions which generated the figures"
 
+[The wavelab front page](http://statweb.stanford.edu/~wavelab)
+
 # The hacker culture comes to the rescue
 
 The story of R
@@ -189,7 +182,7 @@ R](https://stackoverflow.blog/2017/10/10/impressive-growth-r).
 
 # The Hacker Within
 
-\centerline{\includegraphics[height=4in]{images/thw_icon.png}}
+\centerline{\includegraphics[width=4in]{images/thw_icon.png}}
 
 * http://www.thehackerwithin.org
 
@@ -197,6 +190,7 @@ R](https://stackoverflow.blog/2017/10/10/impressive-growth-r).
 
 We:
 
+* chose open over closed, simple over easy.
 * learn
 * teach
 * build
@@ -252,6 +246,15 @@ research" Nature 483 pp. 531–533
 > [...]. But it doesn't work.
 
 [Richard Feynman](http://en.wikiquote.org/wiki/Richard_Feynman) (1974) Cargo Cult Science.
+
+# Do not trust yourself
+
+> The first principle is that you must not fool yourself—and you are the
+> easiest person to fool. So you have to be very careful about that. After
+> you've not fooled yourself, it's easy not to fool other scientists. You just
+> have to be honest in a conventional way after that.
+
+Richard Feynman, Cargo Cult Science (1974)
 
 # The difference between true and false
 
